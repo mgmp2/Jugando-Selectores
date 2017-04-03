@@ -1,0 +1,62 @@
+  .box-content {
+    width: 800px;
+    margin-left: 330px;
+    margin-top: 28px;
+
+    border-style: dashed;
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  h4 {
+    margin-left: 91px;
+  }
+  table {
+     border-collapse: collapse;
+  }
+  table, td, tr{
+    border: 1px solid black;
+
+  }
+  .red {
+    color: red;
+  }
+  .strong{
+     font-weight: bold;
+  }
+  .greenStrong {
+    color: #5c954a;
+  }
+  .pinkStrong {
+    color: #e638c3;
+  }
+  .blue {
+    color: blue;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .cursive {
+    font-style: italic;
+  }
+  .purple {
+    color: purple;
+  }
+  .center {
+    text-align: center;
+  }
+  .green{
+    color: green;
+  }
+
+  .orange {
+    color:orange;
+  }
+
+  .tabla {
+    border: 2px;
+    border-color: red;
+  }
